@@ -32,7 +32,7 @@ This function calculates a score for each nurse based on their attributes and th
 This function ranks the nurses based on their scores and returns an array of `Nurse` objects in descending order of their scores.
 
 
-# Kuzushi Technical Interview
+# XX Technical Interview
 
 ## Problem Definition
 
