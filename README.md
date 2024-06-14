@@ -82,5 +82,3 @@ Anything else outside of the ones listed above is not allowed.
 ## Deliverables
 
 The code should be written in **TypeScript** as **a Node.js library** that anyone can import and use. It should contain documentation and unit tests that demonstrate your understanding of the problem and your ability to handle data irregularities effectively. Adequate testing is crucial to ensure the robustness of your solution against data anomalies.
-
-Once you're finished, send an email to "dt@kuzushi.io" with the subject "Kuzushi Technical Interview" and include a link to the repo.
